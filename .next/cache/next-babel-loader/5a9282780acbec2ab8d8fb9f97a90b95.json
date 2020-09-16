@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport { Body } from '../components/body';\nimport Head from '../components/head';\n\nconst Home = () => __jsx(\"div\", null, __jsx(Head, {\n  title: \"Home\"\n}), __jsx(Body, null));\n\nexport default Home;","map":null,"metadata":{},"sourceType":"module"}

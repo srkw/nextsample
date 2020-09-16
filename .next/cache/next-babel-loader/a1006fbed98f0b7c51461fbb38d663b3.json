@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport styles from './subFooter.module.css';\nexport const SubFooter = () => __jsx(\"div\", {\n  className: styles.container\n}, \"SubFooter\");","map":null,"metadata":{},"sourceType":"module"}

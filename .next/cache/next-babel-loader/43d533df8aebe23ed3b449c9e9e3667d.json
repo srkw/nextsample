@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport * as React from 'react';\nimport styles from './dynamicImported.module.css';\nexport const DynamicImported = () => __jsx(\"div\", {\n  className: styles.container\n}, \"Dynamic Imported\");","map":null,"metadata":{},"sourceType":"module"}

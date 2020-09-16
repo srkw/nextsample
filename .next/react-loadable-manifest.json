@@ -1,0 +1,28 @@
+{
+  "./dynamicImported": [
+    {
+      "id": "",
+      "file": "static/css/1de444e629e8c3ac3f72.css"
+    },
+    {
+      "id": "7BtI",
+      "file": "static/css/1de444e629e8c3ac3f72.css"
+    },
+    {
+      "id": "xbUy",
+      "file": "static/css/1de444e629e8c3ac3f72.css"
+    },
+    {
+      "id": "",
+      "file": "static/chunks/10.8d91b9fd1a3505e1e48d.js"
+    },
+    {
+      "id": "7BtI",
+      "file": "static/chunks/10.8d91b9fd1a3505e1e48d.js"
+    },
+    {
+      "id": "xbUy",
+      "file": "static/chunks/10.8d91b9fd1a3505e1e48d.js"
+    }
+  ]
+}

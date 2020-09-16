@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport * as React from 'react';\nimport styles from './body.module.css';\nexport const Body = () => __jsx(\"div\", {\n  className: styles.container\n}, __jsx(\"div\", {\n  id: 'id'\n}, \"bodyText\"));","map":null,"metadata":{},"sourceType":"module"}
